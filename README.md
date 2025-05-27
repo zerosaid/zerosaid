@@ -1,36 +1,103 @@
-<h1 align="center">Hi 👋, I'm Daniel Santiago Gonzalez Hernandez</h1>
-<h3 align="center">I'm 18 years old, I'm from San Juan del Cesar, La Guajira, I'm at the Bucaramanga campus, I study on campus, I have a high school diploma and a food agroindustry technician, also some knowledge of Python.</h3>
+<h1 align="center">Hi! 👋 I'm Daniel🧑‍💻</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zerosaid&label=Profile%20views&color=0e75b6&style=flat" alt="zerosaid" /> </p>
+<h4 align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=14&letterSpacing=2px&duration=2700&pause=700&color=22EBF7FF&center=true&vCenter=true&width=870&height=50&lines=I+am+18+years+old.;I+am+from+San+Juan+del+Cesar%2C+La+Guajira.;I+am+currently+studying+on+Bucaramanga.;I+have+a+high+school+diploma.;I+am+also+trained+as+a+food+agroindustry+technician.">
+</h4>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zerosaid" alt="zerosaid" /></a> </p>
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=zerosaid&theme=dark&exclude_days=Sun&hide_border=true&border_radius=7&date_format=j%20M%5B%20Y%5D&card_width=900&card_height=200&background=45%2CFF00FF%2C00FFFF" alt="GitHub Streak"/>
+</div>
 
-<p align="left"> <a href="https://twitter.com/danielgonzalez" target="blank"><img src="https://img.shields.io/twitter/follow/danielgonzalez?logo=twitter&style=for-the-badge" alt="danielgonzalez" /></a> </p>
+<br>
 
-- 🌱 I’m currently learning **Python, git, html and ia**
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=zerosaid&label=Profile%20Views&color=87CEEB&style=flat" alt="Profile Views" height="27" width="142"/>
+</div>
 
-- 👨‍💻 All of my projects are available at [https://github.com/zerosaid](https://github.com/zerosaid)
-
-- 📫 How to reach me **daniel235ub@gmail.com**
-
-- ⚡ Fun fact **I think, i'm black**
+>[!NOTE]
+>**I'm open to receiving offers for jobs**.
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/danielgonzalez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="danielgonzalez" height="30" width="40" /></a>
-<a href="https://kaggle.com/danielgonzalez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="danielgonzalez" height="30" width="40" /></a>
-<a href="https://fb.com/daniel gonzalez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="daniel gonzalez" height="30" width="40" /></a>
-<a href="https://instagram.com/danielgonzalez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="danielgonzalez" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/colombia @ daniel235ub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="colombia @ daniel235ub" height="30" width="40" /></a>
-<a href="https://discord.gg/zerossaeid1655" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zerossaeid1655" height="30" width="40" /></a>
+<div align="center">
+  <a href="https://instagram.com/daniel235ub" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="32" width="50"/>
+  </a>
+  &emsp;
+  <a href="https://wa.me/573177924976" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="32" width="50"/>
+  </a>
+<p align="center">
+  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=daniel235ub@gmail.com&su=Hi,+dear+Daniel.&body=I+want+to+contact+you+to…"><i><tt><b>daniel235ub@gmail.com</b></i></tt></a>
 </p>
+<p align="center">
+ <a href="https://vcard.link/card/IlND.vcf"><b><code>+57 317 792 4976</code></b></a>
+</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<h3 align="left">Skills:</h3>
+<div align="center">
+  <a href="https://www.linux.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="27"/>
+  </a>
+  &emsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="27"/>
+  </a>
+  &emsp;
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="30"/>
+  </a>
+  &emsp;
+  <a href="https://www.scrum.org/" target="_blank" rel="noreferrer">
+    <img src="https://images.credly.com/images/db768524-81d9-435e-96fc-33b517e15616/blob.png" alt="SCRUM" width="30"/>
+  </a>
+  &emsp;
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="27"/>
+  </a>
+  &emsp;
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30"/>
+  </a>
+  &emsp;
+  <a href="https://www.json.org/json-es.html" target="_blank" rel="noreferrer">
+    <img src="https://www.json.org/img/json160.gif" alt="JSON" width="27"/>
+  </a>
+  &emsp;
+  <a href="https://daringfireball.net/projects/markdown/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.commonmark.org/uploads/default/original/2X/3/366f3614de6996d79a131fdf9b41ed7d65cfe181.png" alt="Markdown" width="42"/>
+  </a>
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="27"/>
+  </a>
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="27"/>
+  </a>
+  &emsp;
+  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="27"/>
+  </a>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zerosaid&show_icons=true&locale=en&layout=compact" alt="zerosaid" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zerosaid&show_icons=true&locale=en" alt="zerosaid" /></p>
+<br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zerosaid&" alt="zerosaid" /></p>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zerosaid&show_icons=true&locale=en&layout=donut&theme=dracula" alt="Most Used Languages"/>
+</div>
 
+<br>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=zerosaid&show_icons=true&locale=en&theme=dracula" alt="Github Stats"/>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=zerosaid&theme=dracula" alt="Github Trophys"/>
+  </a>
+</div>
